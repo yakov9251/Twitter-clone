@@ -11,7 +11,7 @@
 .homepage__topLeft {
     height: 100vh;
     width: 50%;
-    /* display: none; */
+    display: none;
 }
 
 .homepage__topLeft img {
