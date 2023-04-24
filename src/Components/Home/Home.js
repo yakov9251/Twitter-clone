@@ -2,7 +2,8 @@ import React from 'react';
 import "./Home.css"
 import Sidebar from "./Sidebar/Sidebar";
 import Feed from "./Feed/Feed";
-import Widgets from './Widgets/Widgets';
+import Widgets from "./Widgets/Widgets"
+
 
 const Home = () => {
   return (
